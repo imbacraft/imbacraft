@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @imbacraft, a Junior Java Developer working for Omilia Ltd. in Greece.
-- 👀 I’m interested in developing desktop and web applications.
-- 🌱 I’m currently learning Java and I'm striving for a high level of proficiency in the language.
-- 📫 You can reach me via email at dimbouzoukas@gmail.com.
+👋 Hi, I’m @imbacraft, a Full-stack Java Developer working for SEB Global Services in Vilnius.
+
+I am passionate about software engineering and free software.
+
+For any questions regarding my repos, you can reach me at dimbouzoukas@gmail.com
