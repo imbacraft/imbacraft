@@ -1,5 +1,1 @@
-👋 Hi, I’m @imbacraft, a Full-stack Java Developer working for SEB Global Services in Vilnius.
-
-I am passionate about software engineering and free software.
-
-For any questions regarding my repos, you can reach me at dimbouzoukas@gmail.com
+Java Software Engineer proficient in developing scalable, high-quality software solutions across the banking, finance, conversational AI, and the public sector. My toolbox includes Java, the Spring ecosystem, RESTful APIs, microservices, and CI/CD pipelines. Committed to delivering clean, maintainability code and reliable solutions that provide measurable business value.
